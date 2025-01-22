@@ -7,6 +7,7 @@ This repository is my personal learning space where I solve and track the progre
 - [Problem Categories](#problem-categories)
 - [Solved Challenges](#solved-challenges)
 - [Skills Required](#skills-required)
+- [Running Bash Scripts](#running-bash-scripts)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -118,6 +119,15 @@ If a script requires input, you can:
   ```bash
   bash script_name.sh input1 input2
   ```
+- Provide input from a file by redirecting the file content to the script:
+  ```bash
+  bash script_name.sh < input_file.txt
+  ```
+  Alternatively, if the script is designed to accept input from a file, you can simply specify the file name directly:
+  ```bash
+  ./script_name.sh input_file.txt
+  ```
+  where `input_file.txt` contains the data you want to provide as input to the script.
 
 ## How to Contribute
 Since this repository is primarily for my personal practice, contributions are not expected. However, if you would like to suggest improvements or help me refine my solutions, feel free to open an issue or submit a pull request!
