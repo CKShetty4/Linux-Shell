@@ -6,6 +6,7 @@ This repository is my personal learning space where I solve and track the progre
 - [Introduction](#introduction)
 - [Problem Categories](#problem-categories)
 - [Solved Challenges](#solved-challenges)
+- [Leaderboard](#leaderboard)
 - [Skills Required](#skills-required)
 - [Running Bash Scripts](#running-bash-scripts)
 - [How to Contribute](#how-to-contribute)
@@ -32,12 +33,12 @@ The problems range from simple bash commands to more complex tasks involving rec
 
 ## Solved Challenges
 
-Here are the problems I have solved, along with their difficulty levels structured:
+Below is the list of problems I have solved, organized by their difficulty levels and structured according to the directory hierarchy:
 
 ```
 Linux-Shell 
-│   LICENSE
-│   README.md
+│   
+│   
 │
 ├───Arrays in Bash
 │   ├───Easy
@@ -130,6 +131,12 @@ Linux-Shell
             Paste - 3
             Paste - 4
 ```
+
+### Leaderboard
+
+Here is my current leaderboard position:
+
+![Leaderboard](./Leaderboard.png)
 
 ## Skills Required
 To solve these problems, I need knowledge and understanding of the following concepts:
