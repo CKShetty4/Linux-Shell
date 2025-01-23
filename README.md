@@ -32,21 +32,104 @@ The problems range from simple bash commands to more complex tasks involving rec
 
 ## Solved Challenges
 
-Here are the problems I have solved, along with their difficulty levels:
+Here are the problems I have solved, along with their difficulty levels structured:
 
-### Easy Bash (Basic)
-- **Let's Echo** 
-- **Looping and Skipping** 
-- **A Personalized Echo** 
-- **Looping with Numbers** 
-- **The World of Numbers** 
-
-### Medium Bash (Basic)
-- **Arithmetic Operations** 
-- **Compute the Average** 
-
-### Hard
-- **Functions and Fractals - Recursive Trees** 
+```
+Linux-Shell 
+│   LICENSE
+│   README.md
+│
+├───Arrays in Bash
+│   ├───Easy
+│   │       Concatenate an array with itself
+│   │       Count the number of elements in an Array
+│   │       Display an element of an array
+│   │       Read in an Array
+│   │       Slice an Array
+│   │
+│   ├───Hard
+│   │       Lonely Integer - Bash!
+│   │
+│   └───Medium
+│           Filter an Array with Patterns
+│           Remove the First Capital Letter from Each Element
+│
+├───Bash
+│   ├───Easy
+│   │       A Personalized Echo
+│   │       Comparing Numbers
+│   │       Let's Echo   
+│   │       Getting started with conditionals
+│   │       Looping and Skipping
+│   │       Looping with Numbers
+│   │       More on Conditionals
+│   │       The World of Numbers
+│   │
+│   ├───Hard
+│   │       Functions and Fractals - Recursive Trees - Bash!
+│   │
+│   └───Medium
+│           Arithmetic Operations
+│           Compute the Average
+│
+├───Grep Sed Awk
+│   ├───Easy
+│   │       'Grep' - A
+│   │       'Grep' - B
+│   │       'Sed' command #3
+│   │
+│   ├───Hard
+│   │       'Sed' command #4
+│   │       'Sed' command #5
+│   │
+│   └───Medium
+│           'Awk' - 1
+│           'Awk' - 2
+│           'Awk' - 3
+│           'Awk' - 4
+│           'Grep' #1
+│           'Grep' #2
+│           'Grep' #3
+│           'Sed' command #1
+│           'Sed' command #2
+│
+└───Text Processing
+    ├───Easy
+    │       Cut #1
+    │       Cut #2
+    │       Cut #3
+    │       Cut #4
+    │       Cut #5
+    │       Cut #6
+    │       Cut #7
+    │       Cut #8
+    │       Cut #9
+    │       Head of a Text File #1
+    │       Head of a Text File #2
+    │       Middle of a Text File
+    │       Sort Command #1
+    │       Sort Command #2
+    │       Sort Command #3
+    │       Sort Command #4
+    │       Sort Command #5
+    │       'Sort' command #6
+    │       'Sort' command #7
+    │       Tail of a Text File #1
+    │       Tail of a Text File #2
+    │       'Tr' Command #1
+    │       'Tr' Command #2
+    │       'Tr' Command #3
+    │       'Uniq' Command #1
+    │       'Uniq' Command #2
+    │       'Uniq' Command #3
+    │       'Uniq' Command #4
+    │
+    └───Medium
+            Paste - 1
+            Paste - 2
+            Paste - 3
+            Paste - 4
+```
 
 ## Skills Required
 To solve these problems, I need knowledge and understanding of the following concepts:
